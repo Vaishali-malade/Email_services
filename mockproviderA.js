@@ -5,4 +5,4 @@ class MockProviderA {
   }
 }
 
-module.exports = MockProviderA; // ✅ Export the class directly
+module.exports = MockProviderA; 
